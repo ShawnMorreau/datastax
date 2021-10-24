@@ -11,11 +11,12 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
-    "@astrajs/collections": "^0.3.0",
+    "@astrajs/collections": "^0.3.1",
     "@nuxtjs/axios": "^5.13.6",
     "@types/lodash": "^4.14.173",
+    "astra-setup": "^0.1.20",
     "core-js": "^3.15.1",
-    "netlify-cli": "^6.9.10",
+    "netlify-cli": "^6.14.0",
     "nuxt": "^2.15.7",
     "vant": "^2.12.22"
   },
